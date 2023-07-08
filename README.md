@@ -1,5 +1,5 @@
 # magento-gift-cards
-Magento 2 Gift Cards extension helps your customers to prepare the best gifts for their friends, relatives and colleagues on special occasions. Customers get free gift designs to email or print and mail.
+Magento 2 Gift Cards extension enables your customers to create the ultimate gifts for their friends, relatives and colleagues on any occasion. Customers can access various gift designs to email or print and deliver.
 
 Please go to https://magehq.com/gift-cards.html buy extension
 
